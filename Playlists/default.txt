@@ -1,0 +1,5 @@
+.\..\songs\Anjaana Anjaani (2010)\02 - Hairat [DoReGaMa].mp3
+.\..\songs\Anjaana Anjaani (2010)\04 - Tumse Hi Tumse [DoReGaMa].mp3
+.\..\songs\Bachna Ae Haseeno (2008)\Khuda Jaane.mp3
+.\..\songs\Bachna Ae Haseeno (2008)\Bachna Ae Haseeno.mp3
+.\..\songs\Endhiran (2010)\Irumbile Oru Idhaiyam.mp3

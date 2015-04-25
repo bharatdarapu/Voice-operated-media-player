@@ -1,0 +1,7 @@
+.\..\Themes\Black Square Icon Theme\car.jpg
+.\..\Themes\Black Square Icon Theme\forward.gif
+.\..\Themes\Black Square Icon Theme\play.gif
+.\..\Themes\Black Square Icon Theme\rewind.gif
+.\..\Themes\Black Square Icon Theme\stop.gif
+.\..\Themes\Black Square Icon Theme\pause.gif
+.\..\Themes\Black Square Icon Theme\close.gif

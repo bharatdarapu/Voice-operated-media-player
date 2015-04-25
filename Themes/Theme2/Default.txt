@@ -1,0 +1,7 @@
+.\..\Themes\Theme2\new.jpg
+.\..\Themes\Theme2\forward.gif
+.\..\Themes\Theme2\play.gif
+.\..\Themes\Theme2\rewind.gif
+.\..\Themes\Theme2\stop.gif
+.\..\Themes\Theme2\pause.gif
+.\..\Themes\Theme2\close.gif
